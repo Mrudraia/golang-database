@@ -1,0 +1,12 @@
+{
+	"Name": "Rachana",
+	"Age": 24,
+	"Contact": "123123123",
+	"Company": "Google",
+	"Address": {
+		"City": "harihar",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 577602
+	}
+}

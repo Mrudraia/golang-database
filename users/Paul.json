@@ -1,0 +1,12 @@
+{
+	"Name": "Paul",
+	"Age": 25,
+	"Contact": "232321212",
+	"Company": "facebook",
+	"Address": {
+		"City": "basaweshwar nagar",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 577604
+	}
+}

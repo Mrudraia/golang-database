@@ -1,0 +1,12 @@
+{
+	"Name": "Kishore",
+	"Age": 22,
+	"Contact": "156756756",
+	"Company": "Microsoft",
+	"Address": {
+		"City": "Davanager",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 577603
+	}
+}

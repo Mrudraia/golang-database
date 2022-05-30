@@ -1,0 +1,12 @@
+{
+	"Name": "Vinochan",
+	"Age": 21,
+	"Contact": "124541212",
+	"Company": "adobe",
+	"Address": {
+		"City": "vijaynagar",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 577605
+	}
+}

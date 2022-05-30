@@ -1,0 +1,12 @@
+{
+	"Name": "Ruthvik",
+	"Age": 26,
+	"Contact": "3434121212",
+	"Company": "wipro",
+	"Address": {
+		"City": "bangalore",
+		"State": "karnataka",
+		"Country": "India",
+		"Pincode": 577606
+	}
+}
